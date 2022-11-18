@@ -724,12 +724,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+Number: 085728801429
+A/N: Yuhuu
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 085728801429
+A/N: Yuhuu
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* ManzXD
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Jogja pride
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 081215845044
+ • *Youtube:* ManzMD
+ • *Github:* ManzX-BOT
  `
 }
